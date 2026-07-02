@@ -1,0 +1,6 @@
+{
+  "name": "Aura Media",
+  "description": "A premium music and video player with playlist management, intelligent metadata cleanup, offline playback, dynamic customizable themes, and cloud backup sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
